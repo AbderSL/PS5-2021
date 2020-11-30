@@ -1,13 +1,13 @@
 {
     "app": {
-        "name": "Lulu-box guide",
-        "color": "#008577"
+        "name": "Playstation5 guide",
+        "color": "#2F5DE3"
     },
     
     
     "ads":{
-        "bannerId": "ca-app-pub-4795636117292694/2195786560",
-        "interstitialId": "-app-pub-4795636117292694/5668467026"
+        "bannerId": "",
+        "interstitialId": ""
     },
     
     
@@ -15,53 +15,53 @@
         "page1": {
           "title": "Trailer",
           "url": "https://abdersl.github.io/PS5-2021/1.htm",
-          "img": "https://www.freepngimg.com/thumb/joystick/87210-playstation-console-accessory-game-fortnite-home-xbox.png"
+          "img": "https://www.freepngimg.com/thumb/playstation/29043-3-playstation-photos.pngg"
         },
         "page2": {
           "title": "PS5 - Recommended settings",
           "url": "https://abdersl.github.io/PS5-2021/1-1.htm",
-          "img": "https://www.freepngimg.com/thumb/joystick/87210-playstation-console-accessory-game-fortnite-home-xbox.png"
+          "img": "https://www.freepngimg.com/thumb/playstation/29043-3-playstation-photos.png"
         },
         "page3": {
           "title": "PS5-2021  name as evidence",
-          "url": "https://abdersl.github.io/PS5-2021/2.html",
-          "img": "https://www.freepngimg.com/thumb/joystick/87210-playstation-console-accessory-game-fortnite-home-xbox.png"
+          "url": "https://abdersl.github.io/PS5-2021/2.htm",
+          "img": "https://www.freepngimg.com/thumb/playstation/29043-3-playstation-photos.png"
         },
         "page4": {
           "title": "Data sheet",
-          "url": "https://abdersl.github.io/PS5-2021/3.html",
-          "img": "https://www.freepngimg.com/thumb/joystick/87210-playstation-console-accessory-game-fortnite-home-xbox.png"
+          "url": "https://abdersl.github.io/PS5-2021/3.htm",
+          "img": "https://www.freepngimg.com/thumb/playstation/29043-3-playstation-photos.png"
         },
         "page5": {
           "title": "What release date for PS5-2021",
-          "url": "https://abdersl.github.io/PS5-2021/4.html",
-          "img": "https://www.freepngimg.com/thumb/joystick/87210-playstation-console-accessory-game-fortnite-home-xbox.png"
+          "url": "https://abdersl.github.io/PS5-2021/4.htm",
+          "img": "https://www.freepngimg.com/thumb/playstation/29043-3-playstation-photos.png"
         },
         "page6": {
           "title": "The design of the PS5-2021",
-          "url": "https://abdersl.github.io/PS5-2021/5.html",
-          "img": "https://www.freepngimg.com/thumb/joystick/87210-playstation-console-accessory-game-fortnite-home-xbox.png"
+          "url": "https://abdersl.github.io/PS5-2021/5.htm",
+          "img": "https://www.freepngimg.com/thumb/playstation/29043-3-playstation-photos.png"
         },
         "page7": {
           "title": "A brand new controller",
-          "url": "https://abdersl.github.io/PS5-2021/6.html",
-          "img": "https://www.freepngimg.com/thumb/joystick/87210-playstation-console-accessory-game-fortnite-home-xbox.png"
+          "url": "https://abdersl.github.io/PS5-2021/6.htm",
+          "img": "https://www.freepngimg.com/thumb/playstation/29043-3-playstation-photos.png"
         },
         "page8": {
           "title": "Price Of PS5-2021",
-          "url": "https://abdersl.github.io/PS5-2021/7.html",
-          "img": "https://www.freepngimg.com/thumb/joystick/87210-playstation-console-accessory-game-fortnite-home-xbox.png"
+          "url": "https://abdersl.github.io/PS5-2021/7.htm",
+          "img": "https://www.freepngimg.com/thumb/playstation/29043-3-playstation-photos.pngg"
         },
         "page9": {
           "title": "The Games",
-          "url": "https://abdersl.github.io/PS5-2021/8.html",
-          "img": "https://www.freepngimg.com/thumb/joystick/87210-playstation-console-accessory-game-fortnite-home-xbox.png"
+          "url": "https://abdersl.github.io/PS5-2021/8.htm",
+          "img": "https://www.freepngimg.com/thumb/playstation/29043-3-playstation-photos.png"
         
         },
         "page10": {
           "title": "Good Luck!",
-          "url": "https://abdersl.github.io/PS5-2021/Good.html",
-          "img": "https://www.freepngimg.com/thumb/star/8-yellow-star-png-image-thumb.png"
+          "url": "https://abdersl.github.io/PS5-2021/Good.htm",
+          "img": "https://www.freepngimg.com/thumb/playstation/29043-3-playstation-photos.png"
 
         }
 
