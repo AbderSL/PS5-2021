@@ -1,0 +1,70 @@
+{
+    "app": {
+        "name": "Lulu-box guide",
+        "color": "#008577"
+    },
+    
+    
+    "ads":{
+        "bannerId": "ca-app-pub-4795636117292694/2195786560",
+        "interstitialId": "-app-pub-4795636117292694/5668467026"
+    },
+    
+    
+    "content": {
+        "page1": {
+          "title": "Trailer",
+          "url": "https://abdersl.github.io/PS5-2021/1.htm",
+          "img": "https://www.freepngimg.com/thumb/joystick/87210-playstation-console-accessory-game-fortnite-home-xbox.png"
+        },
+        "page2": {
+          "title": "PS5 - Recommended settings",
+          "url": "https://abdersl.github.io/PS5-2021/1-1.htm",
+          "img": "https://www.freepngimg.com/thumb/joystick/87210-playstation-console-accessory-game-fortnite-home-xbox.png"
+        },
+        "page3": {
+          "title": "PS5-2021  name as evidence",
+          "url": "https://abdersl.github.io/PS5-2021/2.html",
+          "img": "https://www.freepngimg.com/thumb/joystick/87210-playstation-console-accessory-game-fortnite-home-xbox.png"
+        },
+        "page4": {
+          "title": "Data sheet",
+          "url": "https://abdersl.github.io/PS5-2021/3.html",
+          "img": "https://www.freepngimg.com/thumb/joystick/87210-playstation-console-accessory-game-fortnite-home-xbox.png"
+        },
+        "page5": {
+          "title": "What release date for PS5-2021",
+          "url": "https://abdersl.github.io/PS5-2021/4.html",
+          "img": "https://www.freepngimg.com/thumb/joystick/87210-playstation-console-accessory-game-fortnite-home-xbox.png"
+        },
+        "page6": {
+          "title": "The design of the PS5-2021",
+          "url": "https://abdersl.github.io/PS5-2021/5.html",
+          "img": "https://www.freepngimg.com/thumb/joystick/87210-playstation-console-accessory-game-fortnite-home-xbox.png"
+        },
+        "page7": {
+          "title": "A brand new controller",
+          "url": "https://abdersl.github.io/PS5-2021/6.html",
+          "img": "https://www.freepngimg.com/thumb/joystick/87210-playstation-console-accessory-game-fortnite-home-xbox.png"
+        },
+        "page8": {
+          "title": "Price Of PS5-2021",
+          "url": "https://abdersl.github.io/PS5-2021/7.html",
+          "img": "https://www.freepngimg.com/thumb/joystick/87210-playstation-console-accessory-game-fortnite-home-xbox.png"
+        },
+        "page9": {
+          "title": "The Games",
+          "url": "https://abdersl.github.io/PS5-2021/8.html",
+          "img": "https://www.freepngimg.com/thumb/joystick/87210-playstation-console-accessory-game-fortnite-home-xbox.png"
+        
+        },
+        "page10": {
+          "title": "Good Luck!",
+          "url": "https://abdersl.github.io/PS5-2021/Good.html",
+          "img": "https://www.freepngimg.com/thumb/star/8-yellow-star-png-image-thumb.png"
+
+        }
+
+        }
+      }
+}
