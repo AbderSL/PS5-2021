@@ -7,10 +7,10 @@
   
   
   "ads":{
-     "ads_type": "ISource",
+     "ads_type": "IronSource",
       "bannerId": "",
       "interstitialId": "",
-     "ironsource_id": "16c63c695"
+     "ironsource_id": "16c63c697"
   },
     
     "content": {
