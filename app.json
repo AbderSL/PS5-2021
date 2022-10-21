@@ -3,15 +3,13 @@
         "name": "Playstation5 guide",
         "color": "#2F5DE3"
  
-  },
-  
-  
-  "ads":{
-     "ads_type": "IronSource",
-      "bannerId": "",
-      "interstitialId": "",
-     "ironsource_id": "16c63c697"
-  },
+    },
+    
+    
+    "ads":{
+        "bannerId": "3784762348272968_3784764311606105",
+        "interstitialId": "3784762348272968_3784765791605957"
+    },
     
     "content": {
         "page1": {
